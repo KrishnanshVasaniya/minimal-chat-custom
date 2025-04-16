@@ -138,7 +138,6 @@ Licensed under the MIT License. See [LICENSE](LICENSE) for details.
 For questions, feedback, or suggestions:
 
 - [GitHub Issues](https://github.com/fingerthief/minimal-chat/issues)
-- Discord: `fingerthief#0453`
 
 ---
 
